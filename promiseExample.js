@@ -1,5 +1,5 @@
 // promises is used to handle asynchronous task other option is callback async await
-
+//
 let flag =true;
 
 const promise = new Promise((resolve,reject)=>
